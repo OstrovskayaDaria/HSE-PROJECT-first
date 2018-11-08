@@ -89,7 +89,7 @@ nav ul li {
 
   display: none;
 
-  width: 260px;
+  width: 277px;
   margin-left: -12px;
 
   background: rgb(0 93 221);
@@ -108,4 +108,8 @@ nav ul li {
   height: 45px;
 
   line-height: 45px;
+}
+.svgicon {
+  width: 7px;
+  height: 7px;
 }
