@@ -109,3 +109,45 @@ nav ul li {
 
   line-height: 45px;
 }
+
+h1 {
+  margin-top: 1300px;
+  margin-right: -600px;
+  margin-bottom: 200px;
+
+  color: #000000;
+
+  font-size: 70px;
+  line-height: 200px;
+}
+
+.fonts{
+  position: relative;
+  z-index: -1;
+  bottom: 0;
+
+  width: 650px;
+  margin-top: -100px;
+  margin-bottom: -1050px;
+  margin-left: -250px;
+}
+.posters{
+  position: relative;
+  z-index: -1;
+  bottom: 0;
+
+  width: 650px;
+  margin-top: -100px;
+  margin-bottom: -1100px;
+  margin-left: -230px;
+}
+.css{
+  position: relative;
+  z-index: -1;
+  bottom: 0;
+
+  width: 650px;
+  margin-top: -100px;
+  margin-bottom: -1300px;
+  margin-left: -260px;
+}
